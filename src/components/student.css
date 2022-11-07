@@ -1,0 +1,35 @@
+input{
+   
+    border: 2px solid rgb(160, 109, 109);
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin: 90px;
+}
+.btn1{
+    width: 200px;
+    height: 50px;
+    border: 1px solid rgb(23, 23, 29);
+    border-radius: 30px;
+    font-size: 30px;
+    padding: 0 20px;
+    background-color: rgb(94, 94, 112);
+
+   
+}
+.btn{
+    margin-left: 750px;
+}
+.student{
+    margin-left: 150px;
+    
+   
+}
+.student1{
+    width: auto;
+    height: 900px;
+    border: 1px solid white;
+    background-image: linear-gradient(rgb(150, 115, 132),
+    rgb(95, 50, 65),
+    rgb(197, 144, 144));
+}

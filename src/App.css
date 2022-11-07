@@ -1,0 +1,83 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+  background-image: linear-gradient(rgb(176, 212, 241),
+            rgb(231, 161, 210),
+            rgb(244, 244, 248));
+  height: 1000px;
+}
+
+#heading{
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  padding: 20px;
+ font-size: 25px;
+}
+.one{
+ color: white;
+ text-decoration: none;
+ font-family: 'Times New Roman', Times, serif;
+
+}
+
+.one:hover{
+  color: rgb(219, 104, 123);
+}
+.two{
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+ 
+ }
+#Homepage{
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#studentpage{
+  margin-top: 50px;
+  margin-left: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+#btn{
+  padding: 5px 30px;
+  border-radius: 50px;
+  font-size: 25px;
+  margin-left: 1000px;
+  margin-top:-50px; 
+  position: absolute;
+  background-color: rgb(223, 245, 245);
+  
+}
+.table{
+  margin-top: 50px;
+  margin-left: 30px;
+ border: none;
+ background-color: white;
+
+}
+th{
+  border-left: none;
+  border-right: none;
+  padding: 10px 70px 10px 70px;
+  background-color: rgb(148, 147, 147);
+}
+tr .table1{
+  padding-right: 400px;
+}
+table{
+  margin-left: 30px;
+  margin-top: 50px;
+  background-color: white;
+}
+td{
+  border-left: none;
+  border-right: none;
+  padding: 10px 70px 10px 70px;
+}
+
